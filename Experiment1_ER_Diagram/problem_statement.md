@@ -143,7 +143,7 @@ A popular restaurant wants to manage **reservations, orders, and billing**.
 
 ---
 ### ER DIAGRAM SUBMISSION
-- Name: ADITAAYAN
+- Name: ADITAAYAN M
 - Reg no: 212223040006
 ---
 ##  Instructions for Students
